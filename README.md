@@ -19,7 +19,7 @@ I'm passionate about creating efficient, scalable, and user-friendly application
 ### Example Code:
 ```java
 // Example of a simple Java method for validating request parameters
-public boolean isValidRequest(HttpServletRequest request) {
-    String param = request.getParameter("param");
-    return param != null && !param.isEmpty();
+public boolean isValidRequest(HttpServletRequest request, String param) {
+    String param = request.getParameter(param);
+    return param != null && !param.isBlank();
 }

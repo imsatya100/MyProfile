@@ -1,21 +1,26 @@
 # MyProfile
 # Satyabrata Mohanty - Software Engineer
 
-Hello! I'm **Satyabrata Mohanty**, a Software Engineer with over 2 years of experience specializing in Java-based web application development. 
-I'm passionate about creating efficient, scalable, and user-friendly applications.
+Hello! I'm **Satyabrata Mohanty**, a Software Engineer with over 2 years of experience in developing robust Java-based web application,
+specializing in Java, JavaScript, Spring, Spring Boot, Struts2, Hibernate and RESTful APIs. Proven track
+record in optimizing user experience with writing clean, maintainable and understandable code. Adept at
+collaborating with cross-functional teams with a passion for driving innovation through efficient and secure
+software solutions.
 
-## Profile Summary:
-- 🧑‍💻 Java, Spring Framework, Struts2, and more.
-- 💻 Frontend skills: Bootstrap, jQuery, ReactJS.
-- ⚙️ Backend: Java, Struts2, Spring Framework, Hibernate.
-- 💡 [LinkedIn](https://www.linkedin.com/in/satyabrata-mohanty)
+## Skills:
+- 🧑‍💻 **Programming Languages**: Java, JavaScript, HTML, CSS, JSON, AJAX, XML.
+- 💻 **Frameworks**: Spring, Spring Boot, Struts2, Hibernate, ReactJS, JDBC, JSP, Servlets, Bootstrap, jQuery.
+- 🛢️ **Databases**: MySQL, Oracle.
+- 🌐 **APIs**: RESTful APIs, SOAP.
+- 🏗️ **Design Patterns**: Singleton, MVC, REST, Microservices, DAO (Data Access Object), Factory Pattern.
+- 🔍 **Testing Tools**: JUnit, Mockito, Postman, Bugzilla.
+- ⚙️ **Version Control & CI/CD**: Git, GitLab.
+- 🛠️ **Tools**: Apache Tomcat, Maven, MySQL Workbench, Eclipse, STS, SonarQube.
+  
+## LinkedIn:
+💡 [LinkedIn](https://linkedin.com/in/satyabrata-mohanty-792050196)
 
-# Java Skills
-- 2+ years of experience in **Java**.
-- Used extensively in backend development for web applications.
-- Libraries and frameworks used: **iText**, **Spring MVC**, **Struts2**.
-- Familiar with handling HTTP requests and validating parameters.
-
+---
 ### Example Code:
 ```java
 // Example of a simple Java method for validating request parameters
